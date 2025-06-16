@@ -48,4 +48,6 @@ ICONs were made by https://favicon.io/
 ***
 ### PATCH NOTES
 
-- v1.0 --- Project Initialized and Building.
+| version | Notes | Comments |
+| ---     | ---   | -------------------------------|
+| 1.0     | Project Initialized and Building. | Though I am an engineer (tentatively) but I built this project through vibe coding since this is my first time with javascripts|
