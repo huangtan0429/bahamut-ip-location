@@ -50,4 +50,5 @@ ICONs were made by https://favicon.io/
 
 | version | Notes | Comments |
 | ---     | ---   | -------------------------------|
-| 1.0     | Project Initialized and Building. | Though I am an engineer (tentatively) but I built this project through vibe coding since this is my first time with javascripts|
+| 1.0.0   | Project Initialized and Building. | Though I am an engineer (tentatively) but I built this project through vibe coding since this is my first time with javascripts|
+| 1.0.1   | Adjusted the popup. Added a button. | Nothing. |
